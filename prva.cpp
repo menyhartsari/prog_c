@@ -1,2 +1,1 @@
-prvy pokus
-druhy pokus
+
