@@ -12,7 +12,7 @@ void generuj_kompozicie(char n){
             }else{
                 printf("%d+",cislo);
                 cislo=1;
-            }
+			}
         	}
     	printf("%d\n",cislo);
     }
